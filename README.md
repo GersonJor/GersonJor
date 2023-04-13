@@ -1,7 +1,6 @@
 ### Hola 👋, mi nombre es Gerson
 #### Soy programador web junior
-Programador autodidacta sumamente motivado y apasionado por aprender nuevas tecnologías que me ayuden a crecer profesionalmente,
-Actualmente hago proyectos personales y mis principales lenguajes de programación son : java, PHP
+Programador autodidacta sumamente motivado y apasionado por aprender nuevas tecnologías que me ayuden a crecer profesionalmente.
 
 - 📫 Cómo contactarme: gersonjorge6@gmail.com 
 
